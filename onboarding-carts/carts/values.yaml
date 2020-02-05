@@ -1,2 +1,7 @@
 image: docker.io/keptnexamples/carts:0.10.1
 replicaCount: 1
+keptn:
+  project: test-project
+  service: keptn-carts
+  stage: staging
+  deployment: 1234
