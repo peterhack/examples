@@ -1,4 +1,4 @@
-image: mongo
+image: library/mongo
 service:
     externalPort: 27017
     internalPort: 27017
