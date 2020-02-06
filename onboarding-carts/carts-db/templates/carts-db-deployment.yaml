@@ -9,8 +9,6 @@ spec:
   resources:
     requests:
       storage: 100Mi
-  hostPath:
-    path: "/data"
 status: {}
 ---
 apiVersion: extensions/v1beta1
